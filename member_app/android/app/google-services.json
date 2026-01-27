@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "195819373754",
+    "project_id": "mezmurbet-bdu",
+    "storage_bucket": "mezmurbet-bdu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195819373754:android:fd00ee9fb3d3cceaa8ae83",
+        "android_client_info": {
+          "package_name": "com.example.mezmurbet_admin_final1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdjbLXlJn1Wkad1G-oBRTwu0GBVYfxPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195819373754:android:6dbb4bfeca2d14eda8ae83",
+        "android_client_info": {
+          "package_name": "com.example.mezmurbet_member_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdjbLXlJn1Wkad1G-oBRTwu0GBVYfxPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195819373754:android:d6d9c4d4833b557ea8ae83",
+        "android_client_info": {
+          "package_name": "com.example.mezmurbet_member_final1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdjbLXlJn1Wkad1G-oBRTwu0GBVYfxPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

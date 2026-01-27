@@ -1,0 +1,39 @@
+name: mezmurbet_member_hub
+description: "Mezmurbet Member Application - Professional Choir Songbook"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^4.4.0
+  cloud_firestore: ^6.1.2
+  google_fonts: ^8.0.0
+  firebase_auth: ^6.1.4
+  shared_preferences: ^2.5.4
+  wakelock_plus: ^1.4.0
+  just_audio: ^0.10.5
+  flutter_staggered_animations: ^1.1.1
+  flutter_cache_manager: ^3.4.1
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo.png"
+  min_sdk_android: 21

@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "195819373754",
+    "project_id": "mezmurbet-bdu",
+    "storage_bucket": "mezmurbet-bdu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195819373754:android:a69c2ace8727f36ba8ae83",
+        "android_client_info": {
+          "package_name": "com.bdu.mezmurbet.adminv3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdjbLXlJn1Wkad1G-oBRTwu0GBVYfxPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195819373754:android:701decf18710f543a8ae83",
+        "android_client_info": {
+          "package_name": "com.bdu.mezmurbet.memberv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdjbLXlJn1Wkad1G-oBRTwu0GBVYfxPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195819373754:android:7ac7f794d23ea6f2a8ae83",
+        "android_client_info": {
+          "package_name": "com.bdu.mezmurbet.memberv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdjbLXlJn1Wkad1G-oBRTwu0GBVYfxPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195819373754:android:fbc5f8f3f9811c0da8ae83",
+        "android_client_info": {
+          "package_name": "com.example.mezmurbet_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdjbLXlJn1Wkad1G-oBRTwu0GBVYfxPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195819373754:android:fd00ee9fb3d3cceaa8ae83",
+        "android_client_info": {
+          "package_name": "com.example.mezmurbet_admin_final1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdjbLXlJn1Wkad1G-oBRTwu0GBVYfxPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195819373754:android:199c436b5b5acc79a8ae83",
+        "android_client_info": {
+          "package_name": "com.example.mezmurbet_admin_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdjbLXlJn1Wkad1G-oBRTwu0GBVYfxPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195819373754:android:262f1f5e7bfcc8e7a8ae83",
+        "android_client_info": {
+          "package_name": "com.example.mezmurbet_member"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdjbLXlJn1Wkad1G-oBRTwu0GBVYfxPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195819373754:android:9cf52c88cdf94ddfa8ae83",
+        "android_client_info": {
+          "package_name": "com.example.mezmurbet_member_v3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdjbLXlJn1Wkad1G-oBRTwu0GBVYfxPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
