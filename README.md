@@ -1,6 +1,6 @@
-# 🎶 Mezmurbet: Digital Choir Suite V3
+# 🎶 Mezmurbet: Digital Choir SongBook
 
-A high-performance, dual-application ecosystem developed for the **BDU-CSF Choir**. This project serves as a professional "Digital Vault" to preserve sacred musical heritage while providing a premium, distraction-free worship environment for choir members.
+A high-performance, dual-application ecosystem developed for the **Bahir Dar universty chrstiyan student fellowshipe Choir**. This project serves as a professional "Digital Vault" to preserve sacred musical heritage while providing a premium, distraction-free worship environment for choir members.
 
 ## ✨ Features
 
