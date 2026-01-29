@@ -50,9 +50,3 @@ A high-performance, dual-application ecosystem developed for the **BDU-CSF Choir
 | ![Favorites](screenshots/m7_fav.png) | ![Chat](screenshots/m8_chat.png) | ![Profile](screenshots/m9_profile.png) |
 
 ---
-
-## 🛠️ Installation & Setup
-
-1. **Clone the Mono-repo:**
-   ```bash
-   git clone https://github.com/Kenean579/Mezmurbet_System.git
